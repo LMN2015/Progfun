@@ -24,6 +24,5 @@ cantidad(l);System.out.println("""res0: Int = """ + $show(res$0));$skip(13); val
 
 cantidad(j);System.out.println("""res1: Int = """ + $show(res$1))}
 
-      
 }
       

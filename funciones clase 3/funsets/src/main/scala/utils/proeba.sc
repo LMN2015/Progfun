@@ -27,6 +27,5 @@ cantidad(l)                                       //> res0: Int = 3
 
 cantidad(j)                                       //> res1: Int = 4
 
-      
 }
       
